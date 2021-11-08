@@ -1,1 +1,3 @@
 # AIFFEL-FUNDAMENTALS
+
+21.11.08 [F-25] 정보이론 톺아보기
